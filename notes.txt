@@ -1,3 +1,5 @@
 This is my first note and first commit
 
 This is my another line from remote repo
+
+This is my second note and second commit
