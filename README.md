@@ -1,2 +1,2 @@
-# DevopsMasterClass
+# DevOpsMasterClass
 DevOps Masterclass
