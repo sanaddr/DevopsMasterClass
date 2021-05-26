@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Sample file 1
 
 This is my first merge
+=======
+Sample file 1 , it's edited by Developer1
+>>>>>>> main
